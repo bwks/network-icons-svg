@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 135.22932 37.519578"
+   height="37.519577mm"
+   width="135.22932mm">
+  <defs
+     id="defs2">
+    <filter
+       id="filter4183"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend4185"
+         in2="BackgroundImage"
+         mode="lighten" />
+    </filter>
+    <filter
+       id="filter4183-4"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend4185-6"
+         in2="BackgroundImage"
+         mode="lighten" />
+    </filter>
+    <filter
+       id="filter4326"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend4328"
+         in2="BackgroundImage"
+         mode="lighten" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-19.178164,-127.42057)"
+     id="layer1">
+    <g
+       id="g1188">
+      <g
+         id="g1136">
+        <rect
+           y="130.76498"
+           x="22.522587"
+           height="30.830734"
+           width="128.54048"
+           id="rect826"
+           style="opacity:1;fill:#b9b9b9;fill-opacity:1;stroke:#7e7e7e;stroke-width:6.6888442;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
+        <rect
+           y="130.76498"
+           x="22.522587"
+           height="30.830734"
+           width="128.54047"
+           id="rect1124"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#4b4b4b;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
+      </g>
+      <g
+         id="g1179">
+        <rect
+           ry="0.5021199"
+           y="137.78133"
+           x="139.47626"
+           height="16.798052"
+           width="3.3196149"
+           id="rect828"
+           style="opacity:1;fill:#7e7e7e;fill-opacity:1;stroke:#4b4b4b;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+        <rect
+           ry="0.5021199"
+           y="137.78133"
+           x="33.307011"
+           height="16.798052"
+           width="3.3196149"
+           id="rect828-7"
+           style="opacity:1;fill:#7e7e7e;fill-opacity:1;stroke:#4b4b4b;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+        <rect
+           ry="0.50909281"
+           y="140.55286"
+           x="101.06827"
+           height="11.254977"
+           width="29.225002"
+           id="rect828-3-6"
+           style="opacity:1;fill:#7e7e7e;fill-opacity:1;stroke:#4b4b4b;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+      </g>
+    </g>
+  </g>
+</svg>
