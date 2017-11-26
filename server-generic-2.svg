@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="135.22932mm"
+   height="37.519577mm"
+   viewBox="0 0 135.22932 37.519578"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4183">
+      <feBlend
+         mode="lighten"
+         in2="BackgroundImage"
+         id="feBlend4185" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4183-4">
+      <feBlend
+         mode="lighten"
+         in2="BackgroundImage"
+         id="feBlend4185-6" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4326">
+      <feBlend
+         mode="lighten"
+         in2="BackgroundImage"
+         id="feBlend4328" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-19.178165,-127.42056)"
+     id="g1136">
+    <rect
+       style="opacity:1;fill:#b9b9b9;fill-opacity:1;stroke:#7e7e7e;stroke-width:6.6888442;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect826"
+       width="128.54048"
+       height="30.830734"
+       x="22.522587"
+       y="130.76498" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#4b4b4b;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect1124"
+       width="128.54047"
+       height="30.830734"
+       x="22.522587"
+       y="130.76498" />
+  </g>
+  <g
+     transform="translate(-7.2053528e-7,7.9711151e-6)"
+     id="g895">
+    <g
+       id="g889">
+      <rect
+         transform="matrix(-0.00585336,0.99998287,-0.99999753,-0.00222174,0,0)"
+         ry="0.81501383"
+         y="-38.33847"
+         x="11.609586"
+         height="27.265688"
+         width="3.3196502"
+         id="rect828-7"
+         style="opacity:1;fill:#7e7e7e;fill-opacity:1;stroke:#4b4b4b;stroke-width:1.34835279;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+      <rect
+         transform="matrix(-0.00585336,0.99998287,-0.99999753,-0.00222174,0,0)"
+         ry="0.81501383"
+         y="-38.402103"
+         x="22.481047"
+         height="27.265688"
+         width="3.3196502"
+         id="rect828-7-3"
+         style="opacity:1;fill:#7e7e7e;fill-opacity:1;stroke:#4b4b4b;stroke-width:1.34835279;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </g>
+    <circle
+       style="opacity:1;fill:#7e7e7e;fill-opacity:1;stroke:#4b4b4b;stroke-width:1.34831667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path883"
+       cx="108.63422"
+       cy="18.759781"
+       r="9.0152884" />
+  </g>
+</svg>
