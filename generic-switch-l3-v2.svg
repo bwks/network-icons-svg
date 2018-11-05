@@ -5,9 +5,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   width="41.422092mm"
-   height="41.422092mm"
-   viewBox="0 0 146.77119 146.7712"
+   width="41.337708mm"
+   height="41.337708mm"
+   viewBox="0 0 146.47219 146.4722"
    id="svg6315"
    version="1.1">
   <defs
@@ -25,20 +25,19 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(1.192472,1.1924774)"
-     id="g819">
+     id="g838">
     <rect
-       ry="6.6729107"
-       y="-52.146091"
-       x="-154.2426"
-       height="104.29219"
-       width="104.29219"
-       id="rect4136-2-3-9"
-       style="opacity:1;fill:#dddddd;fill-opacity:1;stroke:#0c3c86;stroke-width:4.83562517;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
-       transform="rotate(-135)" />
+       ry="8.9564304"
+       y="-143.22699"
+       x="-143.22699"
+       height="139.98178"
+       width="139.98178"
+       id="rect4136-2-3-9-6"
+       style="opacity:1;fill:#dddddd;fill-opacity:1;stroke:#0c3c86;stroke-width:6.49041319;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(-1)" />
     <path
-       style="fill:#104ead;fill-opacity:1;stroke:#0c3c86;stroke-width:1.78535295;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="m 72.193253,127.65905 22.947871,-22.94787 -16.579058,-2e-5 -1.162821,-27.311944 27.311945,1.154851 2e-5,16.587029 22.94786,-22.947863 -22.94786,-22.947865 -2e-5,16.587051 -27.311957,1.154613 1.162777,-27.311679 16.579111,-2.2e-5 -22.948115,-22.945615 -22.948074,22.945575 16.594948,4.3e-5 1.147112,27.311704 -27.312116,-1.154626 -2.5e-5,-16.587041 -22.947628,22.947628 22.94784,22.94789 3.1e-5,-16.587047 27.311923,-1.154607 -1.146862,27.311695 H 49.24515 Z"
-       id="rect827-0-3" />
+       id="rect817-9"
+       d="M 38.467349,17.631503 12.107427,41.705784 h 17.144331 v 16.10392 L 59.766461,73.264126 29.251758,88.7169 v 16.04952 H 12.107427 L 38.467349,128.8407 64.827264,104.76642 H 48.300211 V 92.7128 L 73.236096,80.083854 98.171988,92.7128 v 12.05362 H 81.644917 l 26.359933,24.07428 26.35992,-24.07428 H 117.21865 V 88.7169 L 86.703933,73.262479 117.21865,57.809704 v -16.10392 h 17.14612 L 108.00485,17.631503 81.644917,41.705784 H 98.171988 V 53.813809 L 73.236096,66.44275 48.300211,53.813809 V 41.705784 h 16.527053 z"
+       style="fill:#104ead;fill-opacity:1;stroke:#0c3c86;stroke-width:1.90302837;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
   </g>
 </svg>
