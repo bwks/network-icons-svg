@@ -7,29 +7,30 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.1"
-   id="svg6315"
-   viewBox="0 0 146.47246 146.45574"
+   width="41.337784mm"
    height="41.333061mm"
-   width="41.337784mm">
+   viewBox="0 0 146.47246 146.45574"
+   id="svg6315"
+   version="1.1">
   <defs
      id="defs6317">
     <linearGradient
-       osb:paint="solid"
-       id="linearGradient819">
+       id="linearGradient819"
+       osb:paint="solid">
       <stop
-         id="stop817"
+         style="stop-color:#dddddd;stop-opacity:1;"
          offset="0"
-         style="stop-color:#dddddd;stop-opacity:1;" />
+         id="stop817" />
     </linearGradient>
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="73.235916"
-       x2="146.47183"
-       y1="73.235916"
-       x1="3.5762787e-06"
+       gradientTransform="matrix(0.99449835,0,0,0.99438474,0.4032344,0.40318833)"
+       xlink:href="#linearGradient819"
        id="linearGradient821"
-       xlink:href="#linearGradient819" />
+       x1="3.5762787e-06"
+       y1="73.235916"
+       x2="146.47183"
+       y2="73.235916"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata6320">
@@ -44,17 +45,17 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="matrix(0.99449835,0,0,0.99438474,0.4032344,0.40318833)"
-     id="g825">
-    <circle
-       style="fill:url(#linearGradient821);fill-opacity:1;stroke:#0c3c86;stroke-width:5.64656258;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.875;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+     id="g836">
+    <ellipse
+       cy="73.227867"
+       cx="73.236229"
        id="path815"
-       cx="73.235916"
-       cy="73.235916"
-       r="70.8181" />
+       style="fill:url(#linearGradient821);fill-opacity:1;stroke:#0c3c86;stroke-width:5.6151762;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.875;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;opacity:0.94"
+       rx="70.428482"
+       ry="70.420441" />
     <path
-       id="rect827-0-3"
-       d="M 29.815916,29.816111 V 65.74426 L 42.794358,52.76584 65.085004,73.235925 42.800601,93.712245 29.815916,80.727589 V 116.65574 H 65.744048 L 52.759375,103.67102 73.23589,81.386793 93.705798,103.6772 l -12.978459,12.9785 35.926581,-0.002 0.002,-35.926521 L 103.66498,93.718048 81.386806,73.235867 103.67117,52.759235 116.65588,65.743899 V 29.81613 L 80.727731,29.816091 93.712395,42.800804 73.2359,65.085 52.753523,42.807048 65.74444,29.81613 Z"
-       style="fill:#104ead;fill-opacity:1;stroke:#0c3c86;stroke-width:1.97652149;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+       style="opacity:0.93999999;fill:#104ead;fill-opacity:1;stroke:#0c3c86;stroke-width:1.82743692;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="M 33.08893,33.085407 V 66.30168 L 45.089123,54.302878 65.699612,73.227871 45.094895,92.158627 33.08893,80.15406 v 33.21629 h 33.220052 l -12.005955,-12.00464 18.9331,-20.602204 18.92699,20.607914 -12.000209,11.99889 33.218622,-0.002 0.002,-33.214768 L 101.37168,92.163963 80.772686,73.227807 101.37737,54.296763 113.38335,66.301337 V 33.085425 L 80.163271,33.085389 92.169217,45.090009 73.236135,65.692181 54.297616,45.095782 66.309345,33.085425 Z"
+       id="rect827-0-3" />
   </g>
 </svg>
